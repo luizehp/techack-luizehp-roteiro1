@@ -1,4 +1,4 @@
-## 📖 Manual de Uso
+## Manual de Uso
 
 ### 1. Criar e ativar o ambiente virtual
 
