@@ -1,0 +1,5 @@
+python-whois
+dnspython
+ipwhois
+sublist3r
+requests
